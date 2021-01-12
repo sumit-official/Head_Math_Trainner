@@ -6,7 +6,7 @@ You must have python installed
 * python
 
 # How to use 
-for now the .exe file is not working so you most have pygame and run the math_trainer.py 
+for now the .exe file is not working so you must have pygame and run the math_trainer.py 
 
 # Contribution
 
