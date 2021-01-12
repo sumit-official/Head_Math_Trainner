@@ -6,7 +6,7 @@ You must have python installed
 * python
 
 # How to use 
-just go inside the dist folder and run math_trainer.exe if in case that does not work go back to the math folder and run math_trainer.py this one should work
+for now the .exe file is not working so you most have pygame and run the math_trainer.py 
 
 # Contribution
 
